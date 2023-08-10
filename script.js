@@ -1,0 +1,2 @@
+alert("Hello");
+addEventListener(Register);
